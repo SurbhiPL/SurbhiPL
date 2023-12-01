@@ -23,5 +23,5 @@
 📫 Drop me a line at [surbhipaliwal777@gmail.com].
 
 
-🌐 Let's connect on LinkedIn.
+🌐 Let's connect on LinkedIn www.linkedin.com/in/surbhi-paliwal-73224294.
 🌩️ Thrilled by the power of automation and the endless possibilities of the cloud. Join me on this expedition as we explore, learn, and build the future of DevOps and AWS! 🌍💻
